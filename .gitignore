@@ -1,0 +1,33 @@
+.DS_Store
+
+# Confidential engineering and manufacturing files
+*.ino
+*.c
+*.cpp
+*.h
+*.hex
+*.bin
+*.sch
+*.kicad_sch
+*.kicad_pcb
+*.brd
+*.gerber
+*.gbr
+*.drl
+*.dwg
+*.dxf
+*.step
+*.stp
+*.stl
+*.pdf
+*.docx
+*.xlsx
+*.csv
+
+# Credentials and local configuration
+.env
+.env.*
+*.key
+*.pem
+credentials.*
+secrets.*
